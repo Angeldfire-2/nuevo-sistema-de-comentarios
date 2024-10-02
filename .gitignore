@@ -1,17 +1,1 @@
-# Ignorar archivos de configuración
-firebase-config.js
-
-# Ignorar archivos de sistema
-.DS_Store
-Thumbs.db
-
-# Ignorar node_modules si usas Node.js en el proyecto
-node_modules/
-
-# Ignorar archivos de build (si tienes un sistema de build)
-dist/
-build/
-
-# Ignorar archivos temporales
-*.log
-*.tmp
+config.js
